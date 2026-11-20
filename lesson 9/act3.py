@@ -1,4 +1,4 @@
-print("welcome to the program that checks if a number is an armstrong number or not")
+print("welcome to the program that checks if a number is an armstrong number or not", end="")
 m=int(input("enter a number: "))
 n=m
 a=0

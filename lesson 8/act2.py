@@ -2,8 +2,7 @@ print("")
 string=input("enter a string: ")
 """
 hello
-leh
-
+olleh
 """
 ans=""
 for a in string:
